@@ -3,7 +3,8 @@
 ## Digital study guide created by a boot camp student to help themselves along with others with notes on HTML, CSS, Git, and JavaScript
 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+## Description
+
 
 - The key motivator for creating this website was to have access to a digital form of notes which was easily accessible to me, and any student or beginner looking to view some basic information
 
@@ -31,5 +32,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - N/A
 
 ## License
+
+- Please refer to the LICENSE in the repo
 
 
