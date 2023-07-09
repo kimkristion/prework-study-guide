@@ -5,6 +5,7 @@
 
 ## Description
 
+
 - The key motivator for creating this website was to have access to a digital form of notes which was easily accessible to me, and any student or beginner looking to view some basic information
 
 - This project was built to complement the use of the web while learning or developing code, and to reduce the amount of paper used while engaging in note taking
